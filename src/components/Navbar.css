@@ -1,0 +1,10 @@
+.navbarlink
+{
+    color: white;
+
+}
+.navbarlink:hover
+{
+    text-decoration: none;
+    color: cornflowerblue;
+}
