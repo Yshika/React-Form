@@ -11,7 +11,7 @@ const Create = lazy(() =>
 const View = lazy(() =>
   import('./components/View'))
 
-function App() {
+const App = () => {
 
   const [users, setUsers] = useState([]);
 
